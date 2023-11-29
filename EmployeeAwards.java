@@ -10,7 +10,7 @@ public class EmployeeAwards {
 		Scanner sc = new Scanner(System.in);
 		LinkedList<String> employees = new LinkedList<String>();
 		Random random = new Random();
-		employees.add("ulganathan");
+		employees.add("Krisna");
 		employees.add("Santosh");
 		employees.add("Pradeep");
 		employees.add("Dola");
